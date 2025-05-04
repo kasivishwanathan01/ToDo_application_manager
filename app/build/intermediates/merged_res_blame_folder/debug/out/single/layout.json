@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.todoapplicationmanager.app-mergeDebugResources-32:/layout/list_item_task.xml",
+        "source": "com.example.todoapplicationmanager.app-main-35:/layout/list_item_task.xml"
+    },
+    {
+        "merged": "com.example.todoapplicationmanager.app-mergeDebugResources-32:/layout/activity_loader.xml",
+        "source": "com.example.todoapplicationmanager.app-main-35:/layout/activity_loader.xml"
+    },
+    {
+        "merged": "com.example.todoapplicationmanager.app-mergeDebugResources-32:/layout/dialog_edit_task.xml",
+        "source": "com.example.todoapplicationmanager.app-main-35:/layout/dialog_edit_task.xml"
+    },
+    {
+        "merged": "com.example.todoapplicationmanager.app-mergeDebugResources-32:/layout/activity_deleted_tasks.xml",
+        "source": "com.example.todoapplicationmanager.app-main-35:/layout/activity_deleted_tasks.xml"
+    },
+    {
+        "merged": "com.example.todoapplicationmanager.app-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "com.example.todoapplicationmanager.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.todoapplicationmanager.app-mergeDebugResources-32:/layout/activity_user_guide.xml",
+        "source": "com.example.todoapplicationmanager.app-main-35:/layout/activity_user_guide.xml"
+    }
+]

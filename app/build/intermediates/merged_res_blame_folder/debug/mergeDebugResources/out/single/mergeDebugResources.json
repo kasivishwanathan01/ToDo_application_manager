@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\mipmap-xxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\mipmap-xxhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\layout_activity_edit_task.xml.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\layout\\activity_edit_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\mipmap-xhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\mipmap-xhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\layout_item_task.xml.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\layout\\item_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\mipmap-xxxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\mipmap-hdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\mipmap-hdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-pngs-29:\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\mipmap-mdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\mipmap-mdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\mipmap-xxxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-pngs-29:\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\layout_list_item_task.xml.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\layout\\list_item_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\mipmap-mdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\mipmap-mdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.example.todoapplicationmanager.app-debug-33:/layout_activity_main.xml.flat",
+        "source": "com.example.todoapplicationmanager.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\layout_dialog_edit_task.xml.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\layout\\dialog_edit_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\layout_activity_deleted_tasks.xml.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\layout\\activity_deleted_tasks.xml"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\raw_loader_animation.json.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\raw\\loader_animation.json"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\mipmap-xxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\mipmap-xxhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-pngs-29:\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\mipmap-hdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\mipmap-hdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\xml_actions.xml.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\xml\\actions.xml"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\mipmap-xhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\mipmap-xhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\layout_activity_loader.xml.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\layout\\activity_loader.xml"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\drawable_circle_background.xml.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\drawable\\circle_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-pngs-29:\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-pngs-29:\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-pngs-29:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\drawable_circle_shape.xml.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\drawable\\circle_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-pngs-29:\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.todoapplicationmanager.app-debug-33:/drawable_round_button.xml.flat",
+        "source": "com.example.todoapplicationmanager.app-main-35:/drawable/round_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\drawable_ic_restore.xml.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\drawable\\ic_restore.xml"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\layout_activity_user_guide.xml.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\layout\\activity_user_guide.xml"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-debug-33:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\drawable\\ic_delete.xml"
+    }
+]

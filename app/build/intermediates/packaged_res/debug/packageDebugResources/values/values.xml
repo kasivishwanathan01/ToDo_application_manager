@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="amber">#FFC107</color>
+    <color name="black">#000000</color>
+    <color name="blush_pink">#FFC0CB</color>
+    <color name="burnt_orange">#CC5500</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="coral">#FF6F61</color>
+    <color name="indigo">#3F51B5</color>
+    <color name="lavender">#E6E6FA</color>
+    <color name="olive_green">#808000</color>
+    <color name="seafoam_green">#9FE2BF</color>
+    <color name="slate_grey">#708090</color>
+    <color name="teal_blue">#008080</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">ToDo application manager</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="Base.Theme.ToDoApplicationManager" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.ToDoApplicationManager" parent="Base.Theme.ToDoApplicationManager"/>
+</resources>

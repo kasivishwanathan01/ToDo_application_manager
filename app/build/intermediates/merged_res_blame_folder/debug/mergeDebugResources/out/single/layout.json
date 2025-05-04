@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-mergeDebugResources-32:\\layout\\dialog_edit_task.xml",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\layout\\dialog_edit_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-mergeDebugResources-32:\\layout\\activity_user_guide.xml",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\layout\\activity_user_guide.xml"
+    },
+    {
+        "merged": "com.example.todoapplicationmanager.app-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "com.example.todoapplicationmanager.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-mergeDebugResources-32:\\layout\\list_item_task.xml",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\layout\\list_item_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-mergeDebugResources-32:\\layout\\activity_loader.xml",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\layout\\activity_loader.xml"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-mergeDebugResources-32:\\layout\\activity_deleted_tasks.xml",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\layout\\activity_deleted_tasks.xml"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-mergeDebugResources-32:\\layout\\item_task.xml",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\layout\\item_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-mergeDebugResources-32:\\layout\\activity_edit_task.xml",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\layout\\activity_edit_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-mergeDebugResources-32:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\91979\\.gradle\\daemon\\8.10.2\\com.example.todoapplicationmanager.app-main-35:\\layout\\activity_main.xml"
+    }
+]

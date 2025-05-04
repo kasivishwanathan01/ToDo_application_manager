@@ -1,0 +1,6 @@
+com.example.todoapplicationmanager.test.app-annotation-experimental-1.3.0-0 C:\Users\91979\.gradle\caches\8.10.2\transforms\0c7a124a28fcc74a0edea29c211e4e2a\transformed\annotation-experimental-1.3.0\res
+com.example.todoapplicationmanager.test.app-core-1.5.0-1 C:\Users\91979\.gradle\caches\8.10.2\transforms\2fe15dfdac1ca3f47e1095b23ad403e6\transformed\core-1.5.0\res
+com.example.todoapplicationmanager.test.app-androidTest-2 C:\Users\91979\AndroidStudioProjects\ToDoapplicationmanager - OG 24225\app\build\generated\res\resValues\androidTest\debug
+com.example.todoapplicationmanager.test.app-mergeDebugAndroidTestResources-3 C:\Users\91979\AndroidStudioProjects\ToDoapplicationmanager - OG 24225\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.todoapplicationmanager.test.app-mergeDebugAndroidTestResources-4 C:\Users\91979\AndroidStudioProjects\ToDoapplicationmanager - OG 24225\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.todoapplicationmanager.test.app-debugAndroidTest-5 C:\Users\91979\AndroidStudioProjects\ToDoapplicationmanager - OG 24225\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

@@ -1,0 +1,61 @@
+<!-- activity_main.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/editTextTask"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter task description"
+        android:inputType="text" />
+
+    <Button
+        android:id="@+id/buttonSelectDueDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select Due Date and Time"
+        android:layout_marginTop="8dp" />
+
+    <TextView
+        android:id="@+id/textViewDueDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="No due date selected"
+        android:layout_marginTop="8dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="16dp">
+
+        <Button
+            android:id="@+id/buttonAdd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Add"
+            android:layout_marginEnd="8dp" />
+
+        <Button
+            android:id="@+id/buttonViewDeleted"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="View Deleted Tasks"
+            android:layout_marginEnd="8dp" />
+
+        <Button
+            android:id="@+id/buttonUserGuide"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="User Guide" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/listViewTasks"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>
