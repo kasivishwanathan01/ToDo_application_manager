@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actions>
+    <action intentName="actions.intent.CREATE_NOTE">
+        <fulfillment urlTemplate="example://createTask?description={title}">
+            <parameter-mapping
+                intentParameter="title"
+                urlParameter="title" />
+        </fulfillment>
+    </action>
+</actions>
